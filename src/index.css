@@ -1,0 +1,21 @@
+.react-confirm-alert-body > h1 {
+    font-size: 30px;
+  }
+  
+  #react-confirm-alert > div > div > div > div > button:nth-child(1),
+  #react-confirm-alert > div > div > div > div > button:nth-child(2) {
+      min-width: 120px;
+      min-height: 40px;
+      font-size: 15px;
+      border-radius: 100px;
+  }
+  
+  #react-confirm-alert > div > div > div > div > button:nth-child(1) {
+      color: white !important;
+      background: #627D98 !important;
+  }
+  
+  #react-confirm-alert > div > div > div > div > button:nth-child(2) {
+      color: white !important;
+      background: #E12D3A !important;
+  }
